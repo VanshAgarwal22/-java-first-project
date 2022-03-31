@@ -1,6 +1,6 @@
 package unit_01;
 
-public class helloworld {
+public class p1_task01_helloworldinjava {
 
 	public static void main(String[] args) {
 		

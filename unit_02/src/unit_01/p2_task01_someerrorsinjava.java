@@ -1,6 +1,6 @@
 package unit_01;
 
-public class someerrors {
+public class p2_task01_someerrorsinjava {
 
 	  static final int a  =10;
 	  public static final float pi = 3.14f;
