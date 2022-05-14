@@ -119,7 +119,7 @@ public class P14_Task01_exceptionJava {
 		if (age < 18) {
 			throw new Exception();
 		} else {
-			System.out.println("You are allowed to enter");
+			System.out.println("You are allowed to enter in it");
 		}
 
 	}
