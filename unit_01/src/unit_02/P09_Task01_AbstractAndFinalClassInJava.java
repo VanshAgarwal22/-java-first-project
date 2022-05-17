@@ -52,7 +52,7 @@ public class P09_Task01_AbstractAndFinalClassInJava {
 		obj.display();
 		
 		// can not be instantiated
-		// Bike obj2=new Bike();
+//		 Bike obj2=new Bike();
 	}
 }
 

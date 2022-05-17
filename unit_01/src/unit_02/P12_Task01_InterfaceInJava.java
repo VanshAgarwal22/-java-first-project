@@ -15,6 +15,9 @@ package unit_02;
 interface Animal{
 	public void animalSound(); // interface method (does not have a body)
 	public void run(); // interface method (does not have a body)
+	default void vansh() {
+		System.out.println();
+	}
 }
 
 //Interface
