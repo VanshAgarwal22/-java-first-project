@@ -18,7 +18,7 @@ public class P16_MultiThreading_Synchronization {
 		WebCount obj = new WebCount();
 		
 		System.out.println(Thread.currentThread().getName());
-//
+
 		Thread threadOne = new Thread(new Runnable() {
 			@Override
 			public void run() {

@@ -62,6 +62,6 @@ class SharedResource {
 		this.amount += amount;
 		System.out.println("deposit completed... ");
 		notify();
-		//notifyAll();
+		//notifyAll();//
 	}
 }
