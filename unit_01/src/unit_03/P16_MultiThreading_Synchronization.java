@@ -61,8 +61,8 @@ class WebCount {
 	public static int count = 0;
 
 	//You want T1 to complete first and then T2 
-	public synchronized void webcount() {//just like a sequwential one by one execute t1 then t2 
-		//ek time pr ek  method ander ay
+	public synchronized void webcount() {//just like a sequential one by one execute t1 then t2 
+		//ek time pr ek  method ander ayga//agar t1 and t2 synchronized nhi hoga to value varry kargei
 		//If not synchronized then, T1 and T2 may read the same value of count at 
 		//the same time and may increment same time as well
 		count++;

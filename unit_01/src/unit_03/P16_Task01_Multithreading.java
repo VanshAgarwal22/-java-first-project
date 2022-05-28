@@ -89,7 +89,7 @@ public class P16_Task01_Multithreading {
 		v1.start();
 		
 		
-//user  k hand m kya h?? start   hh processor ko  chote m divide m  divide kro //task usthake thread m rak doo//
+//user  k hand m kya h?? start krna thread ko  //task utha ke thread m rak doo//
 		// task in user hand 
 		/*1.identify dependent and non dependent task in respective process
 		2.insert selective task into threads

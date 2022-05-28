@@ -2,7 +2,7 @@ package unit_03;
 
 
 
-/*
+/*//y  sare classes k lia accessiable hoti  h object class//
  * 
  * Inter-thread Communication:
    - Threads uses wait, notify() and notifyAll() methods from Object Clas
@@ -34,7 +34,8 @@ public class P16_MultiThreading_WaitAndNotify {
 				c.deposit(10000);
 				//c.deposit(30000);
 			}
-		}.start();//y  sare classes k lia accessiable hoti  h object class
+		}.start();
+		
 	}
 
 }
