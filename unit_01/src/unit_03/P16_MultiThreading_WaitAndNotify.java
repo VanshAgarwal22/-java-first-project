@@ -32,7 +32,7 @@ public class P16_MultiThreading_WaitAndNotify {
 		new Thread() {
 			public void run() {
 				c.deposit(10000);
-				//c.deposit(30000);
+				//c.deposit(30000);//
 			}
 		}.start();
 		
