@@ -2,7 +2,7 @@ package unit_03;
 
 
 
-/*//y  sare classes k lia accessiable hoti  h object class//
+/*//y  sare classes k lia accessiable hoti  h object class////
  * 
  * Inter-thread Communication:
    - Threads uses wait, notify() and notifyAll() methods from Object Clas
