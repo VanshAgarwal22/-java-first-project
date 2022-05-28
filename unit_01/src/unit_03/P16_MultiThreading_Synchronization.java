@@ -7,7 +7,7 @@ but we want to synchronize only 5 lines, in such cases,
 we can use synchronized block.
 */
 
-//You want T1 to complete first and then T2, then we have to use synchronization keyword
+//You want T1 to complete first and then T2, then we have to use synchronization keyword //
 
 
 
